@@ -15,7 +15,8 @@ th,td{ border-bottom:1px solid #e5e5e5; padding:.4rem .6rem; }
 
 # 保安心得2026
 
-[》 最新版（今のところ）](https://h-oooka.github.io/hoaniinkai/高圧ガスの保安心得2026-5As.pdf)
+[》 最新版（今のところ）](https://khks.net/ZYR/kokoroe_press_hyogi.pdf)
+
 
 [-　聞いて驚け、見てひっくり返れ、AIに「この資料のプレゼンを作って」と言っただけで作ってもらったプレゼン資料です。](https://h-oooka.github.io/hoaniinkai/保安心得2026s.pdf)
 
