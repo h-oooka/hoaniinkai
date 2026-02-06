@@ -1,7 +1,7 @@
 
 # 評議員会発表　補足資料
 
-[評議員会用プレゼン資料](khks.net/PPTX/Safety_Economic_Progress_Report.pdf)
+[評議員会用プレゼン資料](http://khks.net/PPTX/Safety_Economic_Progress_Report.pdf)
 
 ## 経済委員会報告補足資料
 
@@ -89,7 +89,7 @@
 ### 高圧ガスの保安心得2026 関連
 
 
-[保安心得の読み方](khks.net/PPTX/kokoroe_intro_hyogi.pptx)・・・解説プレゼン資料
+[保安心得の読み方](http://khks.net/PPTX/kokoroe_intro_hyogi.pptx)・・・解説プレゼン資料
 
 
 （動画）[・高圧ガスの保安心得 紹介（AI作成）](https://youtu.be/lCjGmINf88w)・・・オープニング
