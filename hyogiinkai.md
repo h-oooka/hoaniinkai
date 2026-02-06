@@ -98,7 +98,9 @@
 
 （動画）[・保安心得p02：安全という幻想：脳の臨床診断](https://youtu.be/MROUsVTyBaM?si=-rQ2deAMBv65l50D)
 
-（動画）[・保安心得p03：高圧ガスの2つの危険性：そのリスクの本質を解き明かす](https://youtu.be/Z4xw0BopHAw)
+（動画）[・保安心得p03：高圧ガス_無関心の代償](https://youtu.be/Z4xw0BopHAw)
+
+（動画）[・保安心得p04：高圧ガスの2つの危険性：そのリスクの本質を解き明かす](https://youtu.be/Z4xw0BopHAw)
 
 
 ---
