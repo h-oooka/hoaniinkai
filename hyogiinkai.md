@@ -1,6 +1,7 @@
 
 # 評議員会発表　補足資料
 
+[評議員会用プレゼン資料](khks.net/PPTX/Safety_Economic_Progress_Report.pdf)
 
 ## 経済委員会報告補足資料
 
@@ -87,11 +88,15 @@
 
 ### 高圧ガスの保安心得2026 関連
 
-[・高圧ガスの保安心得 紹介（AI作成）](https://youtu.be/lCjGmINf88w)
 
-[・保安心得p01：安全という幻想：高圧ガス](https://youtu.be/PE1bWIZHdQw?si=nmw7OxKCBz8o1ioJ)
+[保安心得の読み方](khks.net/PPTX/kokoroe_intro_hyogi.pptx)・・・解説プレゼン資料
 
-[・保安心得p02：安全という幻想：脳の臨床診断](https://youtu.be/MROUsVTyBaM?si=-rQ2deAMBv65l50D)
+
+（動画）[・高圧ガスの保安心得 紹介（AI作成）](https://youtu.be/lCjGmINf88w)・・・オープニング
+
+（動画）[・保安心得p01：安全という幻想：高圧ガス](https://youtu.be/PE1bWIZHdQw?si=nmw7OxKCBz8o1ioJ)
+
+（動画）[・保安心得p02：安全という幻想：脳の臨床診断](https://youtu.be/MROUsVTyBaM?si=-rQ2deAMBv65l50D)
 
 
 ---
