@@ -89,10 +89,10 @@
 ### 高圧ガスの保安心得2026 関連
 
 
-[保安心得の読み方](khks.net/PPTX/kokoroe_intro_hyogi.pptx)・・・解説プレゼン資料
+[保安心得の読み方](khks.net/PPTX/kokoroe_intro_hyogi.pptx)・・・評議員会　解説プレゼン資料
 
 
-（動画）[・高圧ガスの保安心得 紹介（AI作成）](https://youtu.be/lCjGmINf88w)・・・オープニング
+（動画）[・高圧ガスの保安心得 紹介（AI作成）](https://youtu.be/lCjGmINf88w)・・・評議員会オープニング動画
 
 （動画）[・保安心得p01：安全という幻想：高圧ガス](https://youtu.be/PE1bWIZHdQw?si=nmw7OxKCBz8o1ioJ)
 
