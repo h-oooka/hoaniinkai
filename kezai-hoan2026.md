@@ -14,9 +14,9 @@
 
 　（動画）[簡単な経緯説明動画](https://youtu.be/ef_Ivedq8bo)
  
-　[全国会員向け配布資料①](https://h-oooka.github.io/hoaniinkai/高圧ガス容器のラベル・SDS義務化と自律的管理の解説資料2.pdf)
+　[安衛法改正・全国会員向け配布資料①](https://h-oooka.github.io/hoaniinkai/高圧ガス容器のラベル・SDS義務化と自律的管理の解説資料2.pdf)
  
-　[消費者向け配布資料②](https://h-oooka.github.io/hoaniinkai/新しい化学物質管理：高圧ガス事業者のための5ステップガイド(改).pdf)
+　[安衛法改正・消費者向け配布資料②](https://h-oooka.github.io/hoaniinkai/新しい化学物質管理：高圧ガス事業者のための5ステップガイド(改).pdf)
 
 　（参考）[ラベルについてのJIMGA資料](https://www.jimga.or.jp/news/detail.php?id=1650)
 
