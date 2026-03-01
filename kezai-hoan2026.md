@@ -13,12 +13,14 @@
 　2026年4月改正労働安全衛生法化学物質管理対象に高圧ガスおよびガス商品が組み入れられる件について（販売店向け）
 
 　（動画）[簡単な経緯説明動画](https://youtu.be/bsjsuv6wnXo)
+ 
 　
 　[全国会員向け配布資料①](https://h-oooka.github.io/hoaniinkai/高圧ガス容器のラベル・SDS義務化と自律的管理の解説資料2.pdf)
  
 　[消費者向け配布資料②](https://h-oooka.github.io/hoaniinkai/新しい化学物質管理：高圧ガス事業者のための5ステップガイド(改).pdf)
 
 　（参考）[ラベルについてのJIMGA資料](https://www.jimga.or.jp/news/detail.php?id=1650)
+
 
 
 ### 【保安】2026年版周知文書
@@ -36,10 +38,12 @@
 	- **課題：無料校正ソフトaffinityデータへ変換**
 
 　※産報へ毎年メンテ見積もり依頼
-　
+
+ 
 ### 【保安】高圧ガスの保安心得2026
 
 　2023年版の在庫がなくなったため再編集
+ 
 　・心得として保安講習会活性につながる内容に偏向
  
 　・2024年の移動に係わる例示基準の改正
@@ -54,6 +58,7 @@
 　[高圧ガスの保安心得2026(サンプル).pdf](https://h-oooka.github.io/hoaniinkai/高圧ガスの保安心得2026(Digests).pdf)
 　
 　参考）サポート資料
+ 
 　[保安心得の読み方](khks.net/PPTX/kokoroe_intro_hyogi.pptx)・・・解説プレゼン資料
  
 　▶[保安心得の紹介・解説動画リスト(youtube)](https://www.youtube.com/playlist?list=PLBAoD-GOnTpXHy7We8ic61zRyt_Id1nwo)
