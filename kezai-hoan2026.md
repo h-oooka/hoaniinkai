@@ -3,6 +3,7 @@
 ### 【経済】賠償責任保険の加入促進
 
 　[サイバー保険ちらし](https://zenyoren.com/wp-content/uploads/2025/05/560b24e03efea9916835bd3c1d2d3e22.pdf)
+ 
 （動画）[全溶連サイバー保険紹介動画](https://youtu.be/Nfj4Hnq9j5M) 試作品　公開2026/3/5 16:00予定
 
 　※全国でのサイバー保険説明会の実施
@@ -14,6 +15,7 @@
 　（動画）[簡単な経緯説明動画](https://youtu.be/bsjsuv6wnXo)
 　
 　[全国会員向け配布資料①](https://h-oooka.github.io/hoaniinkai/高圧ガス容器のラベル・SDS義務化と自律的管理の解説資料2.pdf)
+ 
 　[消費者向け配布資料②](https://h-oooka.github.io/hoaniinkai/新しい化学物質管理：高圧ガス事業者のための5ステップガイド(改).pdf)
 
 　（参考）[ラベルについてのJIMGA資料](https://www.jimga.or.jp/news/detail.php?id=1650)
