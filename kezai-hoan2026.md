@@ -65,6 +65,7 @@ title: 2026.03 経済保安合同委員会
  
 　[保安心得の読み方](http://khks.net/PPTX/kokoroe_intro_hyogi.pptx)<span style="color:skyblue;">・・・解説プレゼン資料（資料だけです、喋りません）
 　</span>
+ 
 　▶[保安心得の紹介・解説動画リスト(youtube)](https://www.youtube.com/playlist?list=PLBAoD-GOnTpXHy7We8ic61zRyt_Id1nwo)
  
  - <span style="color:goldenrod;">（動画）</span>[高圧ガスの保安心得 紹介（AI作成）](https://youtu.be/lCjGmINf88w)<span style="color:skyblue;">・・・評議員会opening</span>
