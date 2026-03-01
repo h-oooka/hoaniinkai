@@ -12,7 +12,7 @@
 
 　2026年4月改正労働安全衛生法化学物質管理対象に高圧ガスおよびガス商品が組み入れられる件について（販売店向け）
 
-　（動画）[簡単な経緯説明動画](https://youtu.be/bsjsuv6wnXo)
+　（動画）[簡単な経緯説明動画](https://youtu.be/ef_Ivedq8bo)
  
 　[全国会員向け配布資料①](https://h-oooka.github.io/hoaniinkai/高圧ガス容器のラベル・SDS義務化と自律的管理の解説資料2.pdf)
  
@@ -71,7 +71,7 @@
 
 ### 【保安】高圧ガス事故事例集（経過報告）
 
- 整理項目現状
+　 整理項目現状
 　
 ### 【保安】英語周知文書のホームページ化
  [英文周知文書のHTML展開（AI試作）](https://h-oooka.github.io/contents/PRECAUTIONS_INF.html)の公開と多言語翻訳の検証
