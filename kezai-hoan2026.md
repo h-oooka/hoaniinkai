@@ -27,6 +27,7 @@
 　◎酸素アセチレンLPガス用・溶接溶断ユーザ向け周知文書
  
 　- 完成（印刷中）、無料校正ソフト[affinity](https://www.affinity.studio/ja_jp)データに変換
+ 
 　-（動画） [5分間紹介動画（再試作）](https://youtu.be/9tZLeumACYg)
 
 　◎LPガス用燃料断ユーザ向け周知文
