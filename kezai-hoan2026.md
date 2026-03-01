@@ -41,42 +41,40 @@
  
 ### 【保安】高圧ガスの保安心得2026
 
-　2023年版の在庫がなくなったため再編集
+	2023年版の在庫がなくなったため再編集
  
-　・心得として保安講習会活性につながる内容に偏向
- 
-　・2024年の移動に係わる例示基準の改正
- 
-　・2025年の積み合わせ（移動）と日々の点検（消費）の改正に対応
- 
-　・2026年4月からの安全衛生法（化学物質）に対応
- 
-　・講習アンケートに対応した[保安心得2026_導入意義・経緯レポート.pdf](https://h-oooka.github.io/hoaniinkai/保安心得2026_導入経緯レポート.pdf)
+	- 心得として保安講習会活性につながる内容に偏向
+	- 2024年の移動に係わる例示基準の改正
+	- 2025年の積み合わせ（移動）と日々の点検（消費）の改正に対応
+ 	- 2026年4月からの安全衛生法（化学物質）に対応
+ 	- 講習アンケートに対応した[保安心得2026_導入意義・経緯レポート.pdf](https://h-oooka.github.io/hoaniinkai/保安心得2026_導入経緯レポート.pdf)
 
 
-　[高圧ガスの保安心得2026(サンプル).pdf](https://h-oooka.github.io/hoaniinkai/高圧ガスの保安心得2026(Digests).pdf)
+	[高圧ガスの保安心得2026(サンプル).pdf](https://h-oooka.github.io/hoaniinkai/高圧ガスの保安心得2026(Digests).pdf)
+
+	***
 　
-　参考）サポート資料
+	参考）サポート資料
  
-　[保安心得の読み方](khks.net/PPTX/kokoroe_intro_hyogi.pptx)・・・解説プレゼン資料
+	[保安心得の読み方](khks.net/PPTX/kokoroe_intro_hyogi.pptx)・・・解説プレゼン資料
  
-　▶[保安心得の紹介・解説動画リスト(youtube)](https://www.youtube.com/playlist?list=PLBAoD-GOnTpXHy7We8ic61zRyt_Id1nwo)
+	　▶[保安心得の紹介・解説動画リスト(youtube)](https://www.youtube.com/playlist?list=PLBAoD-GOnTpXHy7We8ic61zRyt_Id1nwo)
  
-- （動画）[高圧ガスの保安心得 紹介（AI作成）](https://youtu.be/lCjGmINf88w)・・・評議員会opening
-- （動画）[p01：安全という幻想：高圧ガス](https://youtu.be/PE1bWIZHdQw?si=nmw7OxKCBz8o1ioJ)
-- （動画）[p02：安全という幻想：脳の臨床診断](https://youtu.be/MROUsVTyBaM?si=-rQ2deAMBv65l50D)
-- （動画）[p03：高圧ガス_無関心の代償](https://youtu.be/Z4xw0BopHAw)
-- （動画）[p04：高圧ガスの2つの危険性：そのリスクの本質を解き明かす](https://youtu.be/Z4xw0BopHAw)
+	- （動画）[高圧ガスの保安心得 紹介（AI作成）](https://youtu.be/lCjGmINf88w)・・・評議員会opening
+	- （動画）[p01：安全という幻想：高圧ガス](https://youtu.be/PE1bWIZHdQw?si=nmw7OxKCBz8o1ioJ)
+	- （動画）[p02：安全という幻想：脳の臨床診断](https://youtu.be/MROUsVTyBaM?si=-rQ2deAMBv65l50D)
+	- （動画）[p03：高圧ガス_無関心の代償](https://youtu.be/Z4xw0BopHAw)
+	- （動画）[p04：高圧ガスの2つの危険性：そのリスクの本質を解き明かす](https://youtu.be/Z4xw0BopHAw)
 
 
 
 ### 【保安】高圧ガス事故事例集（経過報告）
 
-　　整理項目現状
+	整理項目現状
 　
 ### 【保安】英語周知文書のホームページ化
 
-　　[英文周知文書のHTML展開（AI試作）](https://h-oooka.github.io/contents/PRECAUTIONS_INF.html)の公開と多言語翻訳の検証
+	[英文周知文書のHTML展開（AI試作）](https://h-oooka.github.io/contents/PRECAUTIONS_INF.html)の公開と多言語翻訳の検証
 
 ---
 
