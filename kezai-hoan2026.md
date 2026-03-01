@@ -24,11 +24,15 @@
 ### 【保安】2026年版周知文書
 
 　◎酸素アセチレンLPガス用・溶接溶断ユーザ向け周知文書
+ 
 	- 完成（印刷中）、無料校正ソフト[affinity](https://www.affinity.studio/ja_jp)データに変換
+	
 	-（動画） [5分間紹介動画（再試作）](https://youtu.be/9tZLeumACYg)
 
 　◎LPガス用燃料断ユーザ向け周知文
+ 
 	- 完成（印刷中）
+	
 	- **課題：無料校正ソフトaffinityデータへ変換**
 
 　※産報へ毎年メンテ見積もり依頼
@@ -37,9 +41,13 @@
 
 　2023年版の在庫がなくなったため再編集
 　・心得として保安講習会活性につながる内容に偏向
+ 
 　・2024年の移動に係わる例示基準の改正
+ 
 　・2025年の積み合わせ（移動）と日々の点検（消費）の改正に対応
+ 
 　・2026年4月からの安全衛生法（化学物質）に対応
+ 
 　・講習アンケートに対応した[保安心得2026_導入意義・経緯レポート.pdf](https://h-oooka.github.io/hoaniinkai/保安心得2026_導入経緯レポート.pdf)
 
 
@@ -47,11 +55,17 @@
 　
 　参考）サポート資料
 　[保安心得の読み方](khks.net/PPTX/kokoroe_intro_hyogi.pptx)・・・解説プレゼン資料
+ 
 　▶[保安心得の紹介・解説動画リスト(youtube)](https://www.youtube.com/playlist?list=PLBAoD-GOnTpXHy7We8ic61zRyt_Id1nwo)
+ 
 - （動画）[高圧ガスの保安心得 紹介（AI作成）](https://youtu.be/lCjGmINf88w)・・・評議員会opening
+- 
 - （動画）[p01：安全という幻想：高圧ガス](https://youtu.be/PE1bWIZHdQw?si=nmw7OxKCBz8o1ioJ)
+- 
 - （動画）[p02：安全という幻想：脳の臨床診断](https://youtu.be/MROUsVTyBaM?si=-rQ2deAMBv65l50D)
+- 
 - （動画）[p03：高圧ガス_無関心の代償](https://youtu.be/Z4xw0BopHAw)
+- 
 - （動画）[p04：高圧ガスの2つの危険性：そのリスクの本質を解き明かす](https://youtu.be/Z4xw0BopHAw)
 
 
