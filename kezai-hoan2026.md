@@ -12,14 +12,13 @@
 
 　2026年4月改正労働安全衛生法化学物質管理対象に高圧ガスおよびガス商品が組み入れられる件について（販売店向け）
 
-　（動画）[簡単な経緯説明動画](https://youtu.be/bsjsuv6wnXo)
+	（動画）[簡単な経緯説明動画](https://youtu.be/bsjsuv6wnXo)
  
-　
-　[全国会員向け配布資料①](https://h-oooka.github.io/hoaniinkai/高圧ガス容器のラベル・SDS義務化と自律的管理の解説資料2.pdf)
+	[全国会員向け配布資料①](https://h-oooka.github.io/hoaniinkai/高圧ガス容器のラベル・SDS義務化と自律的管理の解説資料2.pdf)
  
-　[消費者向け配布資料②](https://h-oooka.github.io/hoaniinkai/新しい化学物質管理：高圧ガス事業者のための5ステップガイド(改).pdf)
+	[消費者向け配布資料②](https://h-oooka.github.io/hoaniinkai/新しい化学物質管理：高圧ガス事業者のための5ステップガイド(改).pdf)
 
-　（参考）[ラベルについてのJIMGA資料](https://www.jimga.or.jp/news/detail.php?id=1650)
+	（参考）[ラベルについてのJIMGA資料](https://www.jimga.or.jp/news/detail.php?id=1650)
 
 
 
@@ -64,13 +63,9 @@
 　▶[保安心得の紹介・解説動画リスト(youtube)](https://www.youtube.com/playlist?list=PLBAoD-GOnTpXHy7We8ic61zRyt_Id1nwo)
  
 - （動画）[高圧ガスの保安心得 紹介（AI作成）](https://youtu.be/lCjGmINf88w)・・・評議員会opening
-- 
 - （動画）[p01：安全という幻想：高圧ガス](https://youtu.be/PE1bWIZHdQw?si=nmw7OxKCBz8o1ioJ)
-- 
 - （動画）[p02：安全という幻想：脳の臨床診断](https://youtu.be/MROUsVTyBaM?si=-rQ2deAMBv65l50D)
-- 
 - （動画）[p03：高圧ガス_無関心の代償](https://youtu.be/Z4xw0BopHAw)
-- 
 - （動画）[p04：高圧ガスの2つの危険性：そのリスクの本質を解き明かす](https://youtu.be/Z4xw0BopHAw)
 
 
