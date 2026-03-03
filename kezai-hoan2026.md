@@ -17,13 +17,11 @@ title: 2026.03 経済保安合同委員会
 
 　 <span style="color:goldenrod;">（動画）</span>[簡単な経緯説明動画](https://youtu.be/ef_Ivedq8bo)　<span style="color:skyblue;">委員会で視聴予定</span>
  
-　[安衛法改正・全国会員向け配布資料①](https://h-oooka.github.io/hoaniinkai/高圧ガス容器のラベル・SDS義務化と自律的管理の解説資料2.pdf)
+　<span style="color:orange;">（当日配布）</span>[安衛法改正・全国会員向け配布資料①](https://h-oooka.github.io/hoaniinkai/高圧ガス容器のラベル・SDS義務化と自律的管理の解説資料2.pdf)
  
-　[安衛法改正・消費者向け配布資料②](https://h-oooka.github.io/hoaniinkai/新しい化学物質管理：高圧ガス事業者のための5ステップガイド(改).pdf)
+　<span style="color:orange;">（当日配布）</span>[安衛法改正・消費者向け配布資料②](https://h-oooka.github.io/hoaniinkai/新しい化学物質管理：高圧ガス事業者のための5ステップガイド(改).pdf)
 
 　（参考）[ラベルについてのJIMGA資料](https://www.jimga.or.jp/news/detail.php?id=1650)
-　
-
 
 　<span style="color:goldenrod;">（動画）</span>[20分ある詳細な説明動画](https://youtu.be/_SqvzZMmzGA)　<span style="color:skyblue;">お時間が許せばご覧下さい</span>
 
@@ -59,7 +57,7 @@ title: 2026.03 経済保安合同委員会
  
 　- 2026年4月からの安全衛生法（化学物質）に対応
  
-　- 講習アンケートに対応した[保安心得2026_導入意義・経緯レポート.pdf](https://h-oooka.github.io/hoaniinkai/保安心得2026_導入経緯レポート.pdf)
+　- 講習アンケートに対応した[保安心得2026_導入意義・経緯レポート.pdf](https://h-oooka.github.io/hoaniinkai/保安心得2026_導入経緯レポート.pdf)<span style="color:orange;">（当日配布）</span>
 
 　[高圧ガスの保安心得2026(サンプル).pdf](https://h-oooka.github.io/hoaniinkai/高圧ガスの保安心得2026(Digests).pdf)　<span style="color:skyblue;">委員会では仮印刷を配布します</span>
 
@@ -87,8 +85,9 @@ title: 2026.03 経済保安合同委員会
 ---
 ### 【保安】英語周知文書のホームページ化（状況報告）
 
- [英文周知文書のHTML展開（AI試作）](https://h-oooka.github.io/contents/PRECAUTIONS_INF.html)の*公開と多言語翻訳の検証*
+　[英文周知文書のHTML展開（AI試作）](https://h-oooka.github.io/contents/PRECAUTIONS_INF.html)の*公開と多言語翻訳の検証*
 
+　<span style="color:orange;">（当日配布）</span>[英訳ホームページを公開・自動翻訳させた場合の問題検討報告](https://h-oooka.github.io/hoaniinkai/高圧ガス周知文書の多言語展開に伴う保安リスクの徹底検証.pdf)
 
 ---
 
