@@ -94,6 +94,7 @@
 　[英文周知文書のHTML展開（AI試作）](https://h-oooka.github.io/contents/PRECAUTIONS_INF.html)の*公開と多言語翻訳の検証*
 
 　<span style="color:orange;">（当日配布）</span>[英訳ホームページを公開・自動翻訳させた場合の問題検討報告](https://h-oooka.github.io/hoaniinkai/高圧ガス周知文書の多言語展開に伴う保安リスクの徹底検証.pdf)
+ 
 　<span style="color:goldenrod;">（動画）</span>[報告書の解説動画](https://youtu.be/gV6Z8y0UWtA)　<span style="color:skyblue;">必要に応じてご覧ください</span>
 
 ---
