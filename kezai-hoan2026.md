@@ -31,6 +31,7 @@
 　<span style="color:goldenrod;">（動画）</span>[簡単な紹介動画](https://youtu.be/rzTZPe2FkNE)　<span style="color:skyblue;">委員会で視聴予定</span>
 
 　<span style="color:goldenrod;">（動画）</span>[NDA条項を別立てにするほうがいいというお勧めと、その他の条項も取り外し可能であるというご案内](https://youtu.be/-6fouUMh-v8)　
+ 
 　
 ---
 ### 【保安】2026年版周知文書
