@@ -23,7 +23,9 @@ title: 2026.03 経済保安合同委員会
 
 　（参考）[ラベルについてのJIMGA資料](https://www.jimga.or.jp/news/detail.php?id=1650)
 　
-<span style="color:goldenrod;">（動画）</span>[20分ある詳細な説明動画](https://youtu.be/_SqvzZMmzGA)　<span style="color:skyblue;">お時間が許せばご覧下さい</span>
+<span style="color:goldenrod;">
+
+（動画）</span>[20分ある詳細な説明動画](https://youtu.be/_SqvzZMmzGA)　<span style="color:skyblue;">お時間が許せばご覧下さい</span>
 
 　※全国会員に対するアプローチについて検討
 
