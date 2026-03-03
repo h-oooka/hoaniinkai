@@ -1,7 +1,3 @@
----
-title: 2026.03 経済保安合同委員会
----
-
 ### 【経済】賠償責任保険の加入促進
 
 　[サイバー保険ちらし](https://zenyoren.com/wp-content/uploads/2025/05/560b24e03efea9916835bd3c1d2d3e22.pdf) <span style="color:skyblue;">全溶連ホームページに上がっているデータ</span>
@@ -23,10 +19,19 @@ title: 2026.03 経済保安合同委員会
 
 　（参考）[ラベルについてのJIMGA資料](https://www.jimga.or.jp/news/detail.php?id=1650)
 
-　<span style="color:goldenrod;">（動画）</span>[20分ある詳細な説明動画](https://youtu.be/_SqvzZMmzGA)　<span style="color:skyblue;">お時間が許せばご覧下さい</span>
+　<span style="color:goldenrod;">（動画）</span>[20分ある詳細な説明動画](https://youtu.be/G7scOkIZsaE)　<span style="color:skyblue;">お時間が許せばご覧下さい</span>
 
 　※全国会員に対するアプローチについて検討
 
+---
+### 【経済】基本契約書対応
+
+　2025改訂基本契約書ひながた　の運用・公開
+
+　<span style="color:goldenrod;">（動画）</span>[簡単な紹介動画](https://youtu.be/rzTZPe2FkNE)　<span style="color:skyblue;">委員会で視聴予定</span>
+
+　<span style="color:goldenrod;">（動画）</span>[NDA条項を別立てにするほうがいいというお勧めと、その他の条項も取り外し可能であるというご案内](https://youtu.be/-6fouUMh-v8)　
+　
 ---
 ### 【保安】2026年版周知文書
 
@@ -88,16 +93,16 @@ title: 2026.03 経済保安合同委員会
 　[英文周知文書のHTML展開（AI試作）](https://h-oooka.github.io/contents/PRECAUTIONS_INF.html)の*公開と多言語翻訳の検証*
 
 　<span style="color:orange;">（当日配布）</span>[英訳ホームページを公開・自動翻訳させた場合の問題検討報告](https://h-oooka.github.io/hoaniinkai/高圧ガス周知文書の多言語展開に伴う保安リスクの徹底検証.pdf)
+　<span style="color:goldenrod;">（動画）</span>[報告書の解説動画](https://youtu.be/gV6Z8y0UWtA)　<span style="color:skyblue;">必要に応じてご覧ください</span>
 
 ---
 
 ## おまけ
 
-▶▶ <span style="color:goldenrod;">（動画）</span>[「新春座談会+in+大阪」](https://www.youtube.com/watch?v=CNjQXp_bQeI&authuser=0)　<span style="color:skyblue;">時間があれば委員会で視聴予定</span>
+▶▶ 　　　[「新春座談会+in+大阪」](https://www.youtube.com/watch?v=CNjQXp_bQeI&authuser=0)　<span style="color:skyblue;">時間があれば委員会で視聴予定</span>
 
 
 ---
 https://h-oooka.github.io/hoaniinkai/kezai-hoan2026.html
 
 
----
