@@ -4,9 +4,9 @@ title: 2026.03 経済保安合同委員会
 
 ### 【経済】賠償責任保険の加入促進
 
-　[サイバー保険ちらし](https://zenyoren.com/wp-content/uploads/2025/05/560b24e03efea9916835bd3c1d2d3e22.pdf) <span style="color:skyblue;">全溶連ホームページに上がっているデータにリンク</span>
+　[サイバー保険ちらし](https://zenyoren.com/wp-content/uploads/2025/05/560b24e03efea9916835bd3c1d2d3e22.pdf) <span style="color:skyblue;">全溶連ホームページに上がっているデータ</span>
  
-<span style="color:goldenrod;">（動画）</span>[全溶連サイバー保険紹介動画](https://youtu.be/Nfj4Hnq9j5M) <span style="color:skyblue;">試作品　公開2026/3/5 16:00予定</span>
+<span style="color:goldenrod;">（動画）</span>[全溶連サイバー保険紹介動画](https://youtu.be/Nfj4Hnq9j5M) <span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">委員会で視聴予定</span>
 
 　※全国でのサイバー保険説明会の実施計画
 
@@ -15,13 +15,15 @@ title: 2026.03 経済保安合同委員会
 
 　2026年4月改正労働安全衛生法化学物質管理対象に高圧ガスおよびガス商品が組み入れられる件について（販売店向け）
 
-　 <span style="color:goldenrod;">（動画）</span>[簡単な経緯説明動画](https://youtu.be/ef_Ivedq8bo)
+　 <span style="color:goldenrod;">（動画）</span>[簡単な経緯説明動画](https://youtu.be/ef_Ivedq8bo)　<span style="color:skyblue;">委員会で視聴予定</span>
  
-　[安衛法改正・全国会員向け配布資料①](https://h-oooka.github.io/hoaniinkai/高圧ガス容器のラベル・SDS義務化と自律的管理の解説資料3.pdf)
+　[安衛法改正・全国会員向け配布資料①](https://h-oooka.github.io/hoaniinkai/高圧ガス容器のラベル・SDS義務化と自律的管理の解説資料2.pdf)
  
-　[安衛法改正・消費者向け配布資料②](https://h-oooka.github.io/hoaniinkai/新しい化学物質管理：高圧ガス事業者のための5ステップガイド(改2).pdf)
+　[安衛法改正・消費者向け配布資料②](https://h-oooka.github.io/hoaniinkai/新しい化学物質管理：高圧ガス事業者のための5ステップガイド(改).pdf)
 
 　（参考）[ラベルについてのJIMGA資料](https://www.jimga.or.jp/news/detail.php?id=1650)
+　
+<span style="color:goldenrod;">（動画）</span>[20分ある詳細な説明動画](https://youtu.be/_SqvzZMmzGA)　<span style="color:skyblue;">お時間が許せばご覧下さい</span>
 
 　※全国会員に対するアプローチについて検討
 
@@ -30,17 +32,15 @@ title: 2026.03 経済保安合同委員会
 
 　◎酸素アセチレンLPガス用・溶接溶断ユーザ向け周知文書
  
-　- 完成（印刷中）、無料校正ソフト[affinity](https://www.affinity.studio/ja_jp)データに変換済み
+- 完成（印刷中）、無料校正ソフト[affinity](https://www.affinity.studio/ja_jp)データに変換済み
 
-　- <span style="color:goldenrod;">（動画）</span> [5分間紹介動画（再試作）](https://youtu.be/9tZLeumACYg)
-
+- <span style="color:goldenrod;">（動画）</span> [5分間紹介動画（再試作）](https://youtu.be/9tZLeumACYg)
 
 　◎LPガス用燃料断ユーザ向け周知文
  
 　- 完成（印刷中）
  
 　- 課題：*無料校正ソフトaffinityデータへ変換*
-
 
 　※産報へ毎年メンテ見積もり依頼
 
@@ -59,7 +59,8 @@ title: 2026.03 経済保安合同委員会
  
 　- 講習アンケートに対応した[保安心得2026_導入意義・経緯レポート.pdf](https://h-oooka.github.io/hoaniinkai/保安心得2026_導入経緯レポート.pdf)
 
-　[高圧ガスの保安心得2026(サンプル).pdf](https://h-oooka.github.io/hoaniinkai/高圧ガスの保安心得2026(Digests).pdf)
+　[高圧ガスの保安心得2026(サンプル).pdf](https://h-oooka.github.io/hoaniinkai/高圧ガスの保安心得2026(Digests).pdf)　<span style="color:skyblue;">委員会では仮印刷を配布します</span>
+
 
 　
 #### <span style="color:darkkhaki;">参考）サポート資料</span>
@@ -91,7 +92,7 @@ title: 2026.03 経済保安合同委員会
 
 ## おまけ
 
-▶▶ <span style="color:goldenrod;">（動画）</span>[「新春座談会+in+大阪」](https://www.youtube.com/watch?v=CNjQXp_bQeI&authuser=0)
+▶▶ <span style="color:goldenrod;">（動画）</span>[「新春座談会+in+大阪」](https://www.youtube.com/watch?v=CNjQXp_bQeI&authuser=0)　<span style="color:skyblue;">時間があれば委員会で視聴予定</span>
 
 
 ---
@@ -99,5 +100,3 @@ https://h-oooka.github.io/hoaniinkai/kezai-hoan2026.html
 
 
 ---
-
-
