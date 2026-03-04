@@ -1,3 +1,9 @@
+---
+
+title: 経済保安委員会2026.3
+
+---
+
 ### 【経済】賠償責任保険の加入促進
 
 　[サイバー保険ちらし](https://zenyoren.com/wp-content/uploads/2025/05/560b24e03efea9916835bd3c1d2d3e22.pdf) <span style="color:skyblue;">全溶連ホームページに上がっているデータ</span>
