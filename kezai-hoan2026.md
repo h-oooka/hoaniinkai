@@ -8,7 +8,7 @@ title: 経済保安委員会2026.3
 
 　[サイバー保険ちらし](https://zenyoren.com/wp-content/uploads/2025/05/560b24e03efea9916835bd3c1d2d3e22.pdf) <span style="color:skyblue;">全溶連ホームページに上がっているデータ</span>
  
-<span style="color:goldenrod;">（動画）</span>[全溶連サイバー保険紹介動画](https://youtu.be/Nfj4Hnq9j5M) <span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">委員会で視聴予定</span>
+<span style="color:goldenrod;">（動画）</span>[全溶連サイバー保険紹介動画](https://youtu.be/Zg64QM7Zv_o) <span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">委員会で視聴予定</span>
 
 　※全国でのサイバー保険説明会の実施計画
 
