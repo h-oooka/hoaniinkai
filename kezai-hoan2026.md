@@ -8,11 +8,14 @@ title: 経済保安委員会2026.3
 
 　[サイバー保険ちらし](https://zenyoren.com/wp-content/uploads/2025/05/560b24e03efea9916835bd3c1d2d3e22.pdf) <span style="color:skyblue;">全溶連ホームページに上がっているデータ</span>
  
-<span style="color:goldenrod;">（動画）</span>[全溶連サイバー保険紹介動画](https://youtu.be/Zg64QM7Zv_o) <span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">委員会で視聴予定</span>
+<span style="color:goldenrod;">（動画）</span>[全溶連サイバー攻撃紹介動画（短）](https://youtu.be/Zg64QM7Zv_o) <span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">委員会で視聴予定</span>
+
+<span style="color:goldenrod;">（動画）</span>[全溶連サイバー攻撃の脅威　詳細紹介動画](https://youtu.be/1nbjKuJna0s) <span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">ロング版</span>
 
 　※全国でのサイバー保険説明会の実施計画
 
 ---
+
 ### 【経済】販売店情報提供・教育指導
 
 　2026年4月改正労働安全衛生法化学物質管理対象に高圧ガスおよびガス商品が組み入れられる件について（販売店向け）
@@ -30,6 +33,7 @@ title: 経済保安委員会2026.3
 　※全国会員に対するアプローチについて検討
 
 ---
+
 ### 【経済】基本契約書対応
 
 　2025改訂基本契約書ひながた　の運用・公開
@@ -40,6 +44,7 @@ title: 経済保安委員会2026.3
  
 　
 ---
+
 ### 【保安】2026年版周知文書
 
 　◎酸素アセチレンLPガス用・溶接溶断ユーザ向け周知文書
@@ -57,6 +62,7 @@ title: 経済保安委員会2026.3
 　※産報へ毎年メンテ見積もり依頼
 
  ---
+ 
 ### 【保安】高圧ガスの保安心得2026
 
 　<span style="color:skyblue;">2023年版の在庫がなくなったため再編集</span>
@@ -90,11 +96,13 @@ title: 経済保安委員会2026.3
 
 
 ---
+
 ### 【保安】高圧ガス事故事例集（経過報告）
 
-　 整理項目現状
+　 [整理項目現状](https://h-oooka.github.io/hoaniinkai/事故事例集_新フォーマット.pdf)
 
 ---
+
 ### 【保安】英語周知文書のホームページ化（状況報告）
 
 　[英文周知文書のHTML展開（AI試作）](https://h-oooka.github.io/contents/PRECAUTIONS_INF.html)の*公開と多言語翻訳の検証*
@@ -111,6 +119,9 @@ title: 経済保安委員会2026.3
 
 
 ---
+
 https://h-oooka.github.io/hoaniinkai/kezai-hoan2026.html
+
+
 
 
