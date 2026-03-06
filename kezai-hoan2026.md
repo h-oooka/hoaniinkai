@@ -12,6 +12,8 @@ title: 経済保安委員会2026.3
 
 <span style="color:goldenrod;">（動画）</span>[全溶連サイバー攻撃の脅威　詳細紹介動画](https://youtu.be/1nbjKuJna0s) <span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">ロング版</span>
 
+[サイバー攻撃の脅威と中小企業が取るべき経営防衛策に関する報告書]()
+
 　※全国でのサイバー保険説明会の実施計画
 
 ---
