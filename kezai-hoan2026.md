@@ -22,15 +22,9 @@ title: 経済保安委員会2026.3
 
 　2026年4月改正労働安全衛生法化学物質管理対象に高圧ガスおよびガス商品が組み入れられる件について（販売店向け）
 
-　 <span style="color:goldenrod;">（動画）</span>[簡単な経緯説明動画](https://youtu.be/sWD-2Qttesw)　<span style="color:skyblue;">委員会で視聴</span> (2026/3/8更新)
- 
-　<span style="color:orange;">（当日配布）</span>[安衛法改正・全国会員向け配布資料①](https://h-oooka.github.io/hoaniinkai/高圧ガス容器のラベル・SDS義務化と自律的管理の解説資料2.pdf)
- 
-　<span style="color:orange;">（当日配布）</span>[安衛法改正・消費者向け配布資料②](https://h-oooka.github.io/hoaniinkai/新しい化学物質管理：高圧ガス事業者のための5ステップガイド(改).pdf)
+　[リンク集をこちらのページに移動しました](https://h-oooka.github.io/hoaniinkai/annei_kagaku2026.html)
 
-　（参考）[ラベルについてのJIMGA資料](https://www.jimga.or.jp/news/detail.php?id=1650)
-
-　<span style="color:goldenrod;">（動画）</span>[20分ある詳細な説明動画](https://youtu.be/G7scOkIZsaE)　<span style="color:skyblue;">お時間が許せばご覧下さい</span>
+ ★委員会で質問のあった「SDSにも販売所の名称、住所、電話番号」は必要か、に対する説明もつけています。結論から言うと、私の認識が誤っており、境委員の問題意識が正解でした。同じように思われていた方は必ずお読みください。
 
 　※全国会員に対するアプローチについて検討
 
