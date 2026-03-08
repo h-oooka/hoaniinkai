@@ -22,7 +22,7 @@ title: 経済保安委員会2026.3
 
 　2026年4月改正労働安全衛生法化学物質管理対象に高圧ガスおよびガス商品が組み入れられる件について（販売店向け）
 
-　 <span style="color:goldenrod;">（動画）</span>[簡単な経緯説明動画](https://youtu.be/ef_Ivedq8bo)　<span style="color:skyblue;">委員会で視聴予定</span>
+　 <span style="color:goldenrod;">（動画）</span>[簡単な経緯説明動画](https://youtu.be/sWD-2Qttesw)　<span style="color:skyblue;">委員会で視聴予定</span>
  
 　<span style="color:orange;">（当日配布）</span>[安衛法改正・全国会員向け配布資料①](https://h-oooka.github.io/hoaniinkai/高圧ガス容器のラベル・SDS義務化と自律的管理の解説資料2.pdf)
  
