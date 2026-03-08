@@ -8,23 +8,20 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <div class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-    </div>
-
+<div class="page-header" role="banner">
+  <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+  <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+  {% if page.created_at %}
+    <p style="font-size:0.85em; opacity:0.8;">生成日付: {{ page.created_at | date: "%Y-%m-%d" }}</p>
+  {% endif %}
+  {% if page.updated_at %}
+    <p style="font-size:0.85em; opacity:0.8;">更新日付: {{ page.updated_at | date: "%Y-%m-%d" }}</p>
+  {% endif %}
+  {% if site.github.is_project_page %}
+    <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+  {% endif %}
+</div>
     <main id="content" class="main-content" role="main">
-{% if page.created_at %}
-  <p style="font-size:0.85em; color:#666;">生成日付: {{ page.created_at | date: "%Y-%m-%d" }}</p>
-{% endif %}
-{% if page.updated_at %}
-  <p style="font-size:0.85em; color:#666;">更新日付: {{ page.updated_at | date: "%Y-%m-%d" }}</p>
-{% endif %}
-
-
       {{ content }}
 
       <footer class="site-footer">
