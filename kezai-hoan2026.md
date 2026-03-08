@@ -8,9 +8,9 @@ title: 経済保安委員会2026.3
 
 　[サイバー保険ちらし](https://zenyoren.com/wp-content/uploads/2025/05/560b24e03efea9916835bd3c1d2d3e22.pdf) <span style="color:skyblue;">全溶連ホームページに上がっているデータ</span>
  
-<span style="color:goldenrod;">（動画）</span>[全溶連サイバー攻撃紹介動画（短）](https://youtu.be/Zg64QM7Zv_o) <span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">委員会で視聴</span>
+<span style="color:goldenrod;">（動画）</span>[全溶連サイバー攻撃紹介動画（短）](https://youtu.be/Zg64QM7Zv_o) <span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">委員会で視聴 2:00</span>
 
-<span style="color:goldenrod;">（動画）</span>[全溶連サイバー攻撃の脅威　詳細紹介動画](https://youtu.be/1nbjKuJna0s) <span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">ロング版</span>
+<span style="color:goldenrod;">（動画）</span>[全溶連サイバー攻撃の脅威　詳細紹介動画](https://youtu.be/1nbjKuJna0s) <span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">ロング版　6:45</span>
 
 [サイバー攻撃の脅威と中小企業が取るべき経営防衛策に関する報告書](https://h-oooka.github.io/hoaniinkai/サイバー攻撃の脅威と中小企業が取るべき経営防衛策に関する報告書.pdf)
 
