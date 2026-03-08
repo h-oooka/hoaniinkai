@@ -24,7 +24,7 @@ updated_at: 2026-03-08T18:12:09+09:00
 
 　（参考）[ラベルについてのJIMGA資料](https://www.jimga.or.jp/news/detail.php?id=1650)　<span style="color:skyblue;">リンクです</span>
 
-　<span style="color:goldenrod;">（動画）</span>[20分ある詳細な説明動画](https://youtu.be/G7scOkIZsaE)　<span style="color:skyblue;">冒頭「簡単な動画」より詳しいです</span>
+　<span style="color:goldenrod;">（動画）</span>[20分ある詳細な説明動画](https://youtu.be/sT_fmkB6itE)　<span style="color:skyblue;">冒頭「簡単な動画」より詳しいです</span>
 
 ---
 
