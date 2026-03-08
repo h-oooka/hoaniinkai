@@ -17,12 +17,13 @@
     </div>
 
     <main id="content" class="main-content" role="main">
-      {% if page.date %}
-        <p style="font-size:0.85em; color:#666;">生成日付: {{ page.date | date: "%Y-%m-%d" }}</p>
-      {% endif %}
-      {% if page.updated %}
-        <p style="font-size:0.85em; color:#666;">更新日付: {{ page.updated | date: "%Y-%m-%d" }}</p>
-      {% endif %}
+{% if page.created_at %}
+  <p style="font-size:0.85em; color:#666;">生成日付: {{ page.created_at | date: "%Y-%m-%d" }}</p>
+{% endif %}
+{% if page.updated_at %}
+  <p style="font-size:0.85em; color:#666;">更新日付: {{ page.updated_at | date: "%Y-%m-%d" }}</p>
+{% endif %}
+
 
       {{ content }}
 
