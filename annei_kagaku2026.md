@@ -43,6 +43,7 @@ updated_at: 2026-03-09T09:12:09+09:00
 ---
 
 [全溶連保安講習会テキスト　安衛法「管理対象化学物質となった高圧ガス」2025](https://h-oooka.github.io/contents/%E8%AC%9B%E7%BF%92%E3%83%86%E3%82%AD%E3%82%B9%E3%83%882025%EF%BC%88%E5%AE%89%E8%A1%9B%E6%B3%95%E7%89%B9%E5%8C%96%E9%83%A8%E5%88%86%EF%BC%89s.pdf)
+
 ---
 
 https://h-oooka.github.io/hoaniinkai/annei_kagaku2026.html
