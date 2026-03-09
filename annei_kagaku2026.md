@@ -2,7 +2,7 @@
 
 title: 労働安全衛生法改正 対高圧ガス・化学物質管理関連情報
 created_at: 2026-03-08T18:12:09+09:00
-updated_at: 2026-03-08T18:12:09+09:00
+updated_at: 2026-03-09T09:12:09+09:00
 
 ---
 
@@ -20,7 +20,7 @@ updated_at: 2026-03-08T18:12:09+09:00
  
 　<span style="color:orange;">（資料）</span>[①　安衛法改正・全国会員向け説明資料](https://h-oooka.github.io/hoaniinkai/高圧ガス容器のラベル・SDS義務化と自律的管理の解説資料2.pdf)
  
-　<span style="color:orange;">（資料）</span>[②　安衛法改正・消費者向け配布資料](https://h-oooka.github.io/hoaniinkai/新しい化学物質管理：高圧ガス事業者のための5ステップガイド(改2).pdf)
+　<span style="color:orange;">（資料）</span>[②　安衛法改正・消費者向け配布資料](https://h-oooka.github.io/hoaniinkai/新しい化学物質管理：高圧ガス事業者のための5ステップガイド(改2).pdf)(2026/3/9更新)
 
 　（参考）[ラベルについてのJIMGA資料](https://www.jimga.or.jp/news/detail.php?id=1650)　<span style="color:skyblue;">リンクです</span>
 
