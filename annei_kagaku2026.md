@@ -46,5 +46,5 @@ updated_at: 2026-03-09T09:12:09+09:00
 
 ---
 
-https://h-oooka.github.io/hoaniinkai/annei_kagaku2026.html
+[https://khks.net/annei](https://h-oooka.github.io/hoaniinkai/annei_kagaku2026.html
 [.](https://h-oooka.github.io/hoaniinkai/kezai-hoan2026.html)
