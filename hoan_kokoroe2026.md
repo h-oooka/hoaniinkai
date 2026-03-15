@@ -12,6 +12,12 @@ table{ width:100%; border-collapse:collapse; font-size:1rem; }
 th,td{ border-bottom:1px solid #e5e5e5; padding:.4rem .6rem; }
 </style>
 
+---
+
+title: 経済保安委員会2026.3
+
+---
+
 
 # 保安心得2026
  
