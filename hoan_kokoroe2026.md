@@ -1,11 +1,8 @@
 ---
 
-title: 経済保安委員会2026.3
+title: 新・高圧ガスの保安心得　紹介動画etc.
 
 ---
-
-
-# 保安心得2026
  
 　[保安心得の読み方](http://khks.net/PPTX/kokoroe_intro_hyogi.pptx)<span style="color:skyblue;">・・・解説プレゼン資料（資料だけです、喋りません）
 　</span>
