@@ -86,9 +86,9 @@ title: 経済保安委員会WG_2026.7
 　<span style="color:orange;">（前回既配布）</span>[英訳ホームページを公開・自動翻訳させた場合の問題検討報告](https://h-oooka.github.io/hoaniinkai/高圧ガス周知文書の多言語展開に伴う保安リスクの徹底検証.pdf)
  
 　<span style="color:goldenrod;">（動画）</span>[報告書の解説動画](https://youtu.be/gV6Z8y0UWtA)　<span style="color:skyblue;">参考</span>
-
+<BR>
 　　▼▼▼
- 
+<BR> 
 　[★英文周知文書のHTML展開](https://gassource.jp/shuchi_E/index.html)の斟酌した版
 
 　[高圧ガス周知文書_多言語対応HTML完成までの経緯と改善点](https://gassource.jp/shuchi_E/keiitokaizenten.docx)の斟酌した版
