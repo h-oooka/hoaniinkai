@@ -108,10 +108,12 @@ title: 経済保安委員会WG_2026.7
 
 ### リスクアセスメント対象となった不活性ガス（高圧）
 
-　リスクに出てこない圧力の脅威
+#### リスクに出てこない圧力の脅威
 
-　消費先からの依頼で行なったアルゴンTig溶接のみの消費現場向け保安講習1h
+　消費先からの依頼で行なったアルゴンTig溶接のみの消費現場向け保安講習1h事例
+ 
 　　・[資料](https://khks.net/2026/不活性高圧ガスの危害に基づく高圧ガス事故事例の総合分析5＋.pdf)
+  
 　　・[プレゼン](https://khks.net/2026/不活性ガス保安講習プレゼン.pdf)
 
 ---
@@ -122,6 +124,7 @@ title: 経済保安委員会WG_2026.7
 
  [【歌詞動画】高圧ガスオリジナルソング集](https://www.youtube.com/playlist?list=PLBAoD-GOnTpU0b89upQKYETGrP_7a6NiL)
 
+　[オリジナルソング歌詞集](https://h-oooka.github.io/hoaniinkai/original_songs_lyrics.html)
 
 ---
 
