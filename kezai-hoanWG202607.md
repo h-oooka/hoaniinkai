@@ -14,6 +14,7 @@ title: 経済保安委員会WG_2026.7
 ### 【保安】2026年版周知文書
 
 　[秋の保安委員会で検討する2027年度分周知文書の表紙案](https://gassource.jp/SyuchiBunsho2027_HyoshiAN.pdf)
+ <span style="color:skyblue;">▲配布でも／プロジェクタで見せるだけでもいいですよ</span>
 
 	基本的には安衛法の適応拡大×リスクアセスメント義務
 
@@ -23,7 +24,8 @@ title: 経済保安委員会WG_2026.7
 
 ### 【経済】消費者保安講習会活性化（SDGs関連）
 　*※講習会の運営・参加促進を経済部門で検討し、その内容を支える教材整備を保安部門で行う連携課題*
-　
+　<span style="color:skyblue;">保安心得を持ってない人がいるようなら持ち込みますが</span>
+ 
 　保安心得2026による講習内容改善ポイント
 
 	どんな事故が起きたかを知る（犯人捜し）のではなく何故事故が起きるかを理解する機会へ
@@ -65,6 +67,9 @@ title: 経済保安委員会WG_2026.7
 
 　- プレゼンを元に、保安心得を再構成する
 
+ [プレゼン画面一覧](2026kokoroeX-2x6.pdf)
+ <span style="color:skyblue;">▲印刷配布お願いします</span>
+
 <span style="color:skyblue;">委員会ではこのプレゼンによる保安心得の再構成と、これからの講習会のあり方を説明し、各委員会での取組みの是非を問う⬅WGでは議題に挙げるか検討</span>
 
 ---
@@ -89,7 +94,7 @@ title: 経済保安委員会WG_2026.7
 <BR> 
 　[★英文周知文書のHTML展開](https://gassource.jp/shuchi_E/index.html)の斟酌した版
 
-　[高圧ガス周知文書_多言語対応HTML完成までの経緯と改善点](https://gassource.jp/shuchi_E/keiitokaizenten.docx)の斟酌した版
+　[高圧ガス周知文書_多言語対応HTML完成までの経緯と改善点](https://gassource.jp/shuchi_E/keiitokaizenten.pdf)の斟酌した版
 
 
 <span style="color:skyblue;">万全を期して作成したつもりであるが、再翻訳において問題がないか明確になるまでは、このままこの場所で公開、全溶連としてはあるものを紹介する形をとる⬅WGではこのまま議題に挙げるか検討</span>
