@@ -65,7 +65,7 @@ title: 経済保安委員会WG_2026.7
 
 　- プレゼンを元に、保安心得を再構成する
 
-<span style="color:skyblue;">委員会ではこのプレゼンによる保安心得の再構成と、これからの講習会のあり方を説明し、各委員会での取組みの是非を問う</span>
+<span style="color:skyblue;">委員会ではこのプレゼンによる保安心得の再構成と、これからの講習会のあり方を説明し、各委員会での取組みの是非を問う⬅WGでは議題に挙げるか検討</span>
 
 ---
 
@@ -73,7 +73,7 @@ title: 経済保安委員会WG_2026.7
 
 　[事故事例講習会の限界と功罪](https://h-oooka.github.io/hoaniinkai/JIKO-JIREI_saikose.html)
 
- 　<span style="color:skyblue;">保安心得と方向性をそろえるための再構成必要性を委員会では説明する</span>
+ 　<span style="color:skyblue;">保安心得と方向性をそろえるための再構成必要性を委員会では説明する⬅これを委員会にかけるかWGでは検討</span>
 
 ---
 
@@ -92,7 +92,7 @@ title: 経済保安委員会WG_2026.7
 　[高圧ガス周知文書_多言語対応HTML完成までの経緯と改善点](https://gassource.jp/shuchi_E/keiitokaizenten.docx)の斟酌した版
 
 
-<span style="color:skyblue;">万全を期して作成したつもりであるが、再翻訳において問題がないか明確になるまでは、このままこの場所で公開、全溶連としてはあるものを紹介する形をとる</span>
+<span style="color:skyblue;">万全を期して作成したつもりであるが、再翻訳において問題がないか明確になるまでは、このままこの場所で公開、全溶連としてはあるものを紹介する形をとる⬅WGではこのまま議題に挙げるか検討</span>
 
 ---
 
@@ -119,7 +119,7 @@ title: 経済保安委員会WG_2026.7
 　　・[プレゼン](https://khks.net/2026/不活性ガス保安講習プレゼン.pdf)
 
 
-<span style="color:skyblue;">保安委員会へ依頼して、不活性ガスのリスクアセスメントについて資料化するかを検討する</span>
+<span style="color:skyblue;">保安委員会へ依頼して、不活性ガスのリスクアセスメントについて資料化するかを経済員改で検討する⬅WGでは議題に挙げるか検討</span>
 
 ---
 
