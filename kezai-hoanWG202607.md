@@ -7,7 +7,7 @@ title: 経済保安委員会WG_2026.7
 
 <span style="color:goldenrod;">（動画）</span>[全溶連サイバー攻撃紹介動画]([https://youtu.be/Zg64QM7Zv_o](https://www.youtube.com/watch?v=1nbjKuJna0s)) <span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">委員会で視聴 6:45</span>
 
-	<span style="color:skyblue;">委員会では保険会社に問い合せ中であることを報告</span>
+<span style="color:skyblue;">委員会では保険会社に問い合せ中であることを報告</span>
 
 ---
 
@@ -17,7 +17,8 @@ title: 経済保安委員会WG_2026.7
 
 	基本的には安衛法の適応拡大×リスクアセスメント義務
 
-	<span style="color:skyblue;">委員会でこの案をそのまま提出するか、修正案があるかをＷＧで確認</span>
+<span style="color:skyblue;">委員会でこの案をそのまま提出するか、修正案があるかをＷＧで確認</span>
+
  ---
 
 ### 【経済】消費者保安講習会活性化（SDGs関連）
@@ -50,7 +51,8 @@ title: 経済保安委員会WG_2026.7
 　
 　- [プレゼンを配布可能にする](https://www.khks.net/2026/kokoroe_presenX-.pptx)
  
-	｢そもそも事故はなぜ起きるのか｣<BR>
+	｢そもそも事故はなぜ起きるのか｣
+<BR>
 	１章　14.7MPaは怖ろしいか？　
 	
 	２章　それは警告として創られた言葉
