@@ -68,7 +68,7 @@ title: 経済保安委員会WG_2026.7
 　- プレゼンを元に、保安心得を再構成する
 
  [プレゼン画面一覧](2026kokoroeX-2x6.pdf)
- <span style="color:skyblue;">▲印刷配布お願いします</span>
+<span style="color:skyblue;">⬅印刷配布お願いします</span>
 
 <span style="color:skyblue;">委員会ではこのプレゼンによる保安心得の再構成と、これからの講習会のあり方を説明し、各委員会での取組みの是非を問う⬅WGでは議題に挙げるか検討</span>
 
@@ -95,7 +95,7 @@ title: 経済保安委員会WG_2026.7
 　[★英文周知文書のHTML展開](https://gassource.jp/shuchi_E/index.html)の斟酌した版
 
 　[高圧ガス周知文書_多言語対応HTML完成までの経緯と改善点](https://gassource.jp/shuchi_E/keiitokaizenten.pdf)の斟酌した版
-
+<span style="color:skyblue;">⬅余裕があれば､印刷配布お願いします</span>
 
 <span style="color:skyblue;">万全を期して作成したつもりであるが、再翻訳において問題がないか明確になるまでは、このままこの場所で公開、全溶連としてはあるものを紹介する形をとる⬅WGではこのまま議題に挙げるか検討</span>
 
@@ -120,6 +120,7 @@ title: 経済保安委員会WG_2026.7
 　消費先からの依頼で行なったアルゴンTig溶接のみの消費現場向け保安講習1h事例
  
 　　・[資料](https://khks.net/2026/不活性高圧ガスの危害に基づく高圧ガス事故事例の総合分析5＋.pdf)
+  <span style="color:skyblue;">⬅印刷配布お願いします</span>
   
 　　・[プレゼン](https://khks.net/2026/不活性ガス保安講習プレゼン.pdf)
 
