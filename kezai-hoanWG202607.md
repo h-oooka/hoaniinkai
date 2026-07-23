@@ -141,6 +141,8 @@ title: 経済保安委員会WG_2026.7
 
 　[オリジナルソング歌詞集](https://h-oooka.github.io/hoaniinkai/original_songs_lyrics.html)
 
+ [(参考)JIMGA　ガスの歌](https://www.jimga.or.jp/jimgasongs/)
+
 ---
 
 https://h-oooka.github.io/hoaniinkai/kezai-hoanWG202607.html
