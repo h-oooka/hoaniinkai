@@ -14,7 +14,7 @@ title: 経済保安委員会WG_2026.7
 ### 【保安】2026年版周知文書
 
 　[秋の保安委員会で検討する2027年度分周知文書の表紙案](https://gassource.jp/SyuchiBunsho2027_HyoshiAN.pdf)
- <span style="color:skyblue;">▲配布でも／プロジェクタで見せるだけでもいいですよ</span>
+ <span style="color:skyblue;">⬅配布でも／プロジェクタで見せるだけでもいいですよ</span>
 
 	基本的には安衛法の適応拡大×リスクアセスメント義務
 
