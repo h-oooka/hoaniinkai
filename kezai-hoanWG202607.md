@@ -67,7 +67,7 @@ title: 経済保安委員会WG_2026.7
 
 　- プレゼンを元に、保安心得を再構成する
 
- [プレゼン画面一覧](2026kokoroeX-2x6.pdf)
+ [プレゼン画面一覧](http://khks.net/hoan/2026kokoroeX-2x6.pdf)
 <span style="color:skyblue;">⬅印刷配布お願いします</span>
 
 <span style="color:skyblue;">委員会ではこのプレゼンによる保安心得の再構成と、これからの講習会のあり方を説明し、各委員会での取組みの是非を問う⬅WGでは議題に挙げるか検討</span>
