@@ -84,6 +84,8 @@ title: 経済保安委員会WG_2026.7
 
 　[事故事例講習会の限界と功罪](https://h-oooka.github.io/hoaniinkai/JIKO-JIREI_saikose.html)
 
+ 解説動画[いろいろ問題がありますが](https://youtu.be/XhiOKtTqS-Y)
+
  　<span style="color:skyblue;">保安心得と方向性をそろえるための再構成必要性を委員会では説明する⬅これを委員会にかけるかWGでは検討</span>
 
 ---
