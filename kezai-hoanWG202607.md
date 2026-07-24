@@ -27,6 +27,8 @@ title: 経済保安委員会WG_2026.7
 　<span style="color:skyblue;">保安心得を持ってない人がいるようなら持ち込みますが</span>
 
  レポート[消費者保安講習会が抱えていた五つの課題と、その解決方針](https://h-oooka.github.io/hoaniinkai/kosyu_5kadai.html)
+
+ 解説動画[できは悪いですがnotebookLMの限界です](https://youtu.be/DbKjj4JaOOc)
  
 　保安心得2026による講習内容改善ポイント　
 
