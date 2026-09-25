@@ -1,3 +1,5 @@
+# 全溶連経済委員会資料　2026/09
+
 ### 1. 賠償責任保険の加入促進
 
 <span style="color:goldenrod;">（動画）</span>[全溶連サイバー攻撃紹介動画]([https://youtu.be/Zg64QM7Zv_o](https://www.youtube.com/watch?v=1nbjKuJna0s)) <span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">委員会で視聴 6:45</span>
@@ -98,4 +100,4 @@
 
 ---
 
-https://h-oooka.github.io/hoaniinkai/kezai-hoanWG202607.html
+https://h-oooka.github.io/hoaniinkai/kezai202609.html
