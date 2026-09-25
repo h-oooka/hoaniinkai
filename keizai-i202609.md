@@ -12,7 +12,7 @@
 
 #### 「販売業者としてやるべきこと」の周知
 
--   [高圧ガス販売店・販売主任者の仕事一覧](https://github.com/h-oooka/GasSource.jp/blob/main/%E9%AB%98%E5%9C%A7%E3%82%AC%E3%82%B9%E8%B2%A9%E5%A3%B2%E5%BA%97%E3%83%BB%E8%B2%A9%E5%A3%B2%E4%B8%BB%E4%BB%BB%E8%80%85%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%96%E3%81%A3%E3%81%A8%E4%B8%80%E8%A6%A72023.md)
+-   [高圧ガス販売店・販売主任者の仕事一覧](https://github.com/h-oooka/GasSource.jp/blob/main/%E9%AB%98%E5%9C%A7%E3%82%AC%E3%82%B9%E8%B2%A9%E5%A3%B2%E5%BA%97%E3%83%BB%E8%B2%A9%E5%A3%B2%E4%B8%BB%E4%BB%BB%E8%80%85%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%96%E3%81%A3%E3%81%A8%E4%B8%80%E8%A6%A72023.html)
 
 -　[動画：「販売業者としてやるべきこと」](https://www.youtube.com/watch?v=CcDMJt0jbj4)
 
