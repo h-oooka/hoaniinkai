@@ -100,4 +100,4 @@
 
 ---
 
-https://h-oooka.github.io/hoaniinkai/kezai202609.html
+https://h-oooka.github.io/hoaniinkai/kezai-i202609.html
