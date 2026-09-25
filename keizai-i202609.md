@@ -2,7 +2,7 @@
 
 ### 1. 賠償責任保険の加入促進
 
-<span style="color:goldenrod;">（動画）</span>[全溶連サイバー攻撃紹介動画](https://www.youtube.com/watch?v=1nbjKuJna0s)<span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">委員会で視聴済 6:45</span>（だったと思う）
+<span style="color:goldenrod;">（動画）</span>[全溶連サイバー攻撃紹介動画](https://www.youtube.com/watch?v=1nbjKuJna0s)<span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">委員会で視聴 6:45</span>（だったと思う）
 
 <span style="color:skyblue;">保険会社に問い合せ中であることを報告</span>
 
@@ -16,10 +16,16 @@
 - [動画：「販売業者としてやるべきこと」](https://www.youtube.com/watch?v=CcDMJt0jbj4)　　<span style="color:skyblue;">これも過去委員会で視聴済</span>
 - [高圧ガス販売店の規制履歴](https://h-oooka.github.io/GasSource.jp/IGas_distributors_Timeline.html)
 
+<span style="color:skyblue;">委員会では4.のメニューを参照し、販売店向けの同様な取組みの要否を検討（販売の基準の規則ガイダンスを作成）➡依頼：保安委員会</span>
+
 #### 保安法改正を周知する方向性について
 
-この数年、一般則例示基準（移動）に続いて、一般則/液石則自体の改正　点検（消費）と不活性ガスの危険物積み併せ（移動）が条文改正され、今年度中に40度規制の解除（消費、貯蔵、移動、廃棄、製造、販売）の大幅改正があるが、これまではほぼ規制緩和だったが、40℃規制解除は必ずしも規制解除ではない。
+この数年、一般則例示基準（移動）に続いて、一般則/液石則自体の改正　点検（消費）と不活性ガスの危険物積み併せ（移動）が条文改正され、今年度中に40度規制の解除（消費、貯蔵、移動、廃棄、製造、販売）の大幅改正があるが、これまではほぼ規制緩和だったが、40℃規制解除は必ずしも規制緩和ではない。
 これを販売業者内で安全確保するための自主基準や周知をどうするか検討するべきではないか。
+
+[【経産省高圧ガス保安室】260917_講演資料_高圧ガス保安行政の動向　40℃規制撤廃](https://khks.net/keizai/40do_keisansyo.pdf)
+
+<span style="color:skyblue;">委員会として全般的な（あるいは個別に）法改正啓発の取組みを検討</span>
 
 #### 安衛法改正に対する消費先周知の捉え方
 
@@ -53,13 +59,19 @@
 災害対策に関する対策（パンダミック・震災・水害・気候変動・動物感染症など）に関する読本製作を作成の予定
 
 鳥インフルエンザ拡大・常習化に対する提案：状況について全国調査を行なう。
-[★鳥インフルエンザについての全国調査（経済委員会）](https://khks.net/keizai/questionnaire.docx)
+
+[★鳥インフルエンザについての全国調査（経済委員会）](https://khks.net/keizai/questionnaire.docx)たたき台として★
+
+<span style="color:skyblue;">委員会では全国調査の可否を検討</span>
+
 
 ---
 
 ### 4. 消費者保安講習会活性化（SDGs関連）【保安委員会連携】
 　*※講習会の運営・参加促進を経済部門で検討し、その内容を支える教材整備を保安部門で行う連携課題*
-　
+
+[高圧ガス消費者保安講習会の活性化に向けた趣意書](https://khks.net/hoan/kasseika.pdf) を配布
+
 　新保安心得の講習内容改善ポイント
 
 	どんな事故が起きたかを知る（犯人捜し）のではなく何故事故が起きるかを理解する機会へ
@@ -75,8 +87,8 @@
 	（ベテランほど必要）知らないことを教える教育➡思い込みや意識のたるみを見つける機会
 	
 
-
-####  [すでにできあがって、試験的に講習会受講者に提供されているメニュー](https://khks.net/INDEX/)
+<span style="color:skyblue;">「趣意書」をもとに保安心得と次項プレゼンによるこれからの講習会のあり方を説明し、経済委員会での取組みを検討</span>
+####  [【参考】すでにできあがって、試験的に講習会受講者に提供されているメニュー](https://khks.net/INDEX/)
 - 英文周知文書
 - 高圧ガス保安規則ガイダンス（その他消費・貯蔵・移動・廃棄編）
 - 高圧ガス消費者向けスライド　2026 保安心得ver
@@ -84,12 +96,16 @@
 - ほか含む
 
 
+---
+### 5．「SDGs」活動の推進、運営（保安委員会と連携）
 
-<span style="color:skyblue;">委員会では保安心得と次項プレゼンによるこれからの講習会のあり方を説明し、各委員会での取組みを問う</span>
+[高圧ガス消費者保安講習会の活性化に向けた趣意書](https://khks.net/hoan/kasseika.pdf) の最終ページにおいて、業界の継続性を危惧する主張を行なった。密接に4.と関連している内容であるが、消費者保安講習会以外にも、取り組むべき課題が経産省から問題提起されたため、ここに揚げておく。
 
+[【経産省高圧ガス保安室】260917_講演資料_高圧ガス保安行政の動向 オークション問題](https://khks.net/keizai/auction_keisansyo.pdf)
+
+<span style="color:skyblue;">経産省には、評議員会で「所有者刻印の欠落は重大違反」を指摘したが、今後の対応については経済委員会での取組み検討要</span>
 
 ---
-
 ## おまけ
 
 [動画集：高圧ガス販売店の矜持](https://www.youtube.com/watch?v=0OBiOvArF-s&list=PLBAoD-GOnTpVyJJ4CccacaQgrmYpgUUvD)
@@ -99,3 +115,4 @@
 ---
 
 https://h-oooka.github.io/hoaniinkai/keizai-i202609.html
+https://khks.net/keizai/
