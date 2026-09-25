@@ -2,7 +2,7 @@
 
 ### 1. 賠償責任保険の加入促進
 
-<span style="color:goldenrod;">（動画）</span>[全溶連サイバー攻撃紹介動画]([https://youtu.be/Zg64QM7Zv_o](https://www.youtube.com/watch?v=1nbjKuJna0s)) <span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">委員会で視聴 6:45</span>
+<span style="color:goldenrod;">（動画）</span>[全溶連サイバー攻撃紹介動画](https://www.youtube.com/watch?v=1nbjKuJna0s)<span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">委員会で視聴 6:45</span>
 
 <span style="color:skyblue;">保険会社に問い合せ中であることを報告</span>
 
@@ -12,7 +12,7 @@
 
 #### 「販売業者としてやるべきこと」の周知
 
-- [高圧ガス販売店・販売主任者の仕事一覧](https://github.com/h-oooka/GasSource.jp/blob/main/%E9%AB%98%E5%9C%A7%E3%82%AC%E3%82%B9%E8%B2%A9%E5%A3%B2%E5%BA%97%E3%83%BB%E8%B2%A9%E5%A3%B2%E4%B8%BB%E4%BB%BB%E8%80%85%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%96%E3%81%A3%E3%81%A8%E4%B8%80%E8%A6%A72023.html)
+- [高圧ガス販売店・販売主任者の仕事一覧](https://h-oooka.github.io/GasSource.jp/hanbai_shigoto2023.html)
 - [動画：「販売業者としてやるべきこと」](https://www.youtube.com/watch?v=CcDMJt0jbj4)
 - [高圧ガス販売店の規制履歴](https://h-oooka.github.io/GasSource.jp/IGas_distributors_Timeline.html)
 
