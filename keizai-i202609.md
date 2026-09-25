@@ -2,7 +2,7 @@
 
 ### 1. 賠償責任保険の加入促進
 
-<span style="color:goldenrod;">（動画）</span>[全溶連サイバー攻撃紹介動画](https://www.youtube.com/watch?v=1nbjKuJna0s)<span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">委員会で視聴 6:45</span>（だったと思う）
+<span style="color:goldenrod;">（動画）</span>[全溶連サイバー攻撃紹介動画](https://www.youtube.com/watch?v=1nbjKuJna0s)<span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">委員会で視聴済 6:45</span>（だったと思う）
 
 <span style="color:skyblue;">保険会社に問い合せ中であることを報告</span>
 
@@ -14,7 +14,6 @@
 
 - [高圧ガス販売店・販売主任者の仕事一覧](https://h-oooka.github.io/GasSource.jp/hanbai_shigoto2023.html)
 - [動画：「販売業者としてやるべきこと」](https://www.youtube.com/watch?v=CcDMJt0jbj4)　　<span style="color:skyblue;">これも過去委員会で視聴済</span>
-
 - [高圧ガス販売店の規制履歴](https://h-oooka.github.io/GasSource.jp/IGas_distributors_Timeline.html)
 
 #### 保安法改正を周知する方向性について
