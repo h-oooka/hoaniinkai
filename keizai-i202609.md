@@ -1,10 +1,23 @@
-# 全溶連経済委員会資料　2026/09
+# 全溶連経済委員会資料　2026/09/02
 
-### 1. 賠償責任保険の加入促進
+---
+<span style="color:mediumseagreen;">
+
+☆ 事業計画（2026年度）<BR>
+<BR>
+1. 賠償責任保険・サイバー保険の加入促進と拡大・充実<BR>
+2. 高圧ガス販売業界におけるモラルおよび経済的地位の向上<BR>
+3. 経済動向、市況調査に関する情報の共有化<BR>
+4. 消費者に対する業界の経済的地位の向上対策（保安委員会との連携）<BR>
+5. 「SDGs」活動の推進、運営（保安委員会と連携）<BR>
+6. 高圧ガス保安連絡会議の開催、メンバー強化の検討（保安委員会と連携）<BR>
+</span>
+---
+### 1. 賠償責任保険・サイバー保険の加入促進と拡大・充実
 
 <span style="color:goldenrod;">（動画）</span>[全溶連サイバー攻撃紹介動画](https://www.youtube.com/watch?v=1nbjKuJna0s)<span style="color:skyblue;">試作品</span>　<span style="color:skyblue;">委員会で視聴 6:45</span>（だったと思う）
 
-<span style="color:skyblue;">保険会社に問い合せ中であることを報告</span>
+-- <span style="color:skyblue;">保険会社に問い合せ中であることを報告</span>
 
 ---
 
@@ -16,7 +29,7 @@
 - [動画：「販売業者としてやるべきこと」](https://www.youtube.com/watch?v=CcDMJt0jbj4)　　<span style="color:skyblue;">これも過去委員会で視聴済</span>
 - [高圧ガス販売店の規制履歴](https://h-oooka.github.io/GasSource.jp/IGas_distributors_Timeline.html)
 
-<span style="color:skyblue;">委員会では4.のメニューを参照し、販売店向けの同様な取組みの要否を検討（販売の基準の規則ガイダンスを作成）➡依頼：保安委員会</span>
+-- <span style="color:skyblue;">委員会では4.のメニューを参照し、販売店向けの同様な取組みの要否を検討（販売の基準の規則ガイダンスを作成）➡依頼：保安委員会</span>
 
 #### 保安法改正を周知する方向性について
 
@@ -25,7 +38,7 @@
 
 [【経産省高圧ガス保安室】260917_講演資料_高圧ガス保安行政の動向　40℃規制撤廃](https://khks.net/keizai/40do_keisansyo.pdf)
 
-<span style="color:skyblue;">委員会として全般的な（あるいは個別に）法改正啓発の取組みを検討</span>
+-- <span style="color:skyblue;">委員会として全般的な（あるいは個別に）法改正啓発の取組みを検討</span>
 
 #### 安衛法改正に対する消費先周知の捉え方
 
@@ -36,7 +49,7 @@
 
  委員会で質問のあった「SDSにも販売所の名称、住所、電話番号」は必要か、に対する説明もついてます。
 
-　<span style="color:skyblue;">全国会員に対するアプローチについて具体策を委員会で提案を求める</span>
+-- <span style="color:skyblue;">全国会員に対するアプローチについて具体策を委員会で提案を求める</span>
 
 
 #### （保安委員会提案）リスクアセスメント対象となった不活性ガス資料の必要性（高圧）
@@ -50,7 +63,7 @@
 　　・[プレゼン](https://khks.net/2026/不活性ガス保安講習プレゼン.pdf)
 
 
-<span style="color:skyblue;">保安委員会へ依頼して、不活性ガスのリスクアセスメントについて資料化するかを検討する</span>
+-- <span style="color:skyblue;">保安委員会へ依頼して、不活性ガスのリスクアセスメントについて資料化するかを検討する</span>
 
 ---
 
@@ -62,12 +75,12 @@
 
 [★鳥インフルエンザについての全国調査（経済委員会）](https://khks.net/keizai/questionnaire.docx)たたき台として★
 
-<span style="color:skyblue;">委員会では全国調査の可否を検討</span>
+-- <span style="color:skyblue;">委員会では全国調査の可否を検討</span>
 
 
 ---
 
-### 4. 消費者保安講習会活性化（SDGs関連）【保安委員会連携】
+### 4. 消費者に対する業界の経済的地位の向上対策（保安委員会との連携）
 　*※講習会の運営・参加促進を経済部門で検討し、その内容を支える教材整備を保安部門で行う連携課題*
 
 [高圧ガス消費者保安講習会の活性化に向けた趣意書](https://khks.net/hoan/kasseika.pdf) を配布
@@ -87,13 +100,17 @@
 	（ベテランほど必要）知らないことを教える教育➡思い込みや意識のたるみを見つける機会
 	
 
-<span style="color:skyblue;">「趣意書」をもとに保安心得と次項プレゼンによるこれからの講習会のあり方を説明し、経済委員会での取組みを検討</span>
+-- <span style="color:skyblue;">「趣意書」をもとに保安心得と次項プレゼンによるこれからの講習会のあり方を説明し、経済委員会での取組みを検討</span>
 ####  [【参考】すでにできあがって、試験的に講習会受講者に提供されているメニュー](https://khks.net/INDEX/)
 - 英文周知文書
 - 高圧ガス保安規則ガイダンス（その他消費・貯蔵・移動・廃棄編）
 - 高圧ガス消費者向けスライド　2026 保安心得ver
 - 高圧ガス保安を「歌」で学ぶ　楽曲集（歌のみ）／保安ＭＶ（規則読み上げ）
 - ほか含む
+
+<span style="color:mediumseagreen;">☆オンライン保安補助教材のご紹介ちらし</span>
+　　 [一般高圧ガス保安資料ＰＲちらし](https://khks.net/INDEX/flyer.pdf)
+
 
 
 ---
@@ -103,7 +120,24 @@
 
 [【経産省高圧ガス保安室】260917_講演資料_高圧ガス保安行政の動向 オークション問題](https://khks.net/keizai/auction_keisansyo.pdf)
 
-<span style="color:skyblue;">経産省には、評議員会で「所有者刻印の欠落は重大違反」を指摘したが、今後の対応については経済委員会での取組み検討要</span>
+-- <span style="color:skyblue;">経産省には、評議員会で「所有者刻印の欠落は重大違反」を指摘したが、今後の対応については経済委員会での取組み検討要</span>
+
+### <span style="color:mediumseagreen;">☆GXビジョンとFFI（現場ファースト活動）に対応する
+</span>
+
+[【経産省高圧ガス保安室】260917_講演資料_高圧ガス保安行政の動向 2](https://khks.net/keizai/GX2040-FFI_keisansyo.pdf)<span style="color:mediumseagreen;">に対して ─── <BR></span><span style="color:mediumseagreen;">
+「4.」で紹介したオンライン補助教材を活用して「最先端保安の実践」を提案<BR></span>
+- <span style="color:mediumseagreen;">☆高圧ガスの適性な保安の障害になる問題整理2.pdf</span>
+　　　[【図解】高圧ガスの適正な保安の障害になる問題整理](https://khks.net/hoan/mondai_seri.pdf) 
+- <span style="color:mediumseagreen;">☆販売店による消費者保安教育の進め方.pdf</span>
+　　 [一般高圧ガス保安資料提供活動解説](https://khks.net/INDEX/guide.pdf)
+
+<span style="color:skyblue;">
+-- ☆（別紙参照）新保安心得プレゼン及び規則ガイダンス等一式を、全溶連経済委員会発の提案として、スマート保安※・GX/FFIの好事例に位置づけてもらうよう国（経産省・KHK）へ働きかけるかどうかを検討。将来的にはKHKへの移管・共同メンテナンス体制も視野。窓口は複数候補があり、今後選定。<br>
+※ スマート保安：産業保安分野におけるIoT、ビッグデータ・ＡＩ、ドローン等の活用を通じた安全性と効率性の向上。「人の力・技術」との連携・融合。
+</span>
+
+☆【参考】[高圧ガス保安法等の一部を改正する法律 案の概要](https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/gas_anzen/pdf/025_03_01_01.pdf)
 
 ---
 ## おまけ
