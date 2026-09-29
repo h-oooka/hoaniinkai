@@ -1,4 +1,4 @@
-# 全溶連経済委員会資料　2026/09/02
+# 全溶連経済委員会資料　2026/09
 
 ---
 <span style="color:mediumseagreen;">
@@ -10,8 +10,9 @@
 3. 経済動向、市況調査に関する情報の共有化<BR>
 4. 消費者に対する業界の経済的地位の向上対策（保安委員会との連携）<BR>
 5. 「SDGs」活動の推進、運営（保安委員会と連携）<BR>
-6. 高圧ガス保安連絡会議の開催、メンバー強化の検討（保安委員会と連携）<BR>
-</span>
+6. 高圧ガス保安連絡会議の開催、メンバー強化の検討（保安委員会と連携）</span>
+   <BR>
+
 ---
 ### 1. 賠償責任保険・サイバー保険の加入促進と拡大・充実
 
@@ -122,20 +123,18 @@
 
 -- <span style="color:skyblue;">経産省には、評議員会で「所有者刻印の欠落は重大違反」を指摘したが、今後の対応については経済委員会での取組み検討要</span>
 
-### <span style="color:mediumseagreen;">☆GXビジョンとFFI（現場ファースト活動）に対応する
-</span>
+### <span style="color:mediumseagreen;">☆GXビジョンとFFI（現場ファースト活動）に対応する</span>
 
 [【経産省高圧ガス保安室】260917_講演資料_高圧ガス保安行政の動向 2](https://khks.net/keizai/GX2040-FFI_keisansyo.pdf)<span style="color:mediumseagreen;">に対して ─── <BR></span><span style="color:mediumseagreen;">
 「4.」で紹介したオンライン補助教材を活用して「最先端保安の実践」を提案<BR></span>
-- <span style="color:mediumseagreen;">☆高圧ガスの適性な保安の障害になる問題整理2.pdf</span>
-　　　[【図解】高圧ガスの適正な保安の障害になる問題整理](https://khks.net/hoan/mondai_seri.pdf) 
-- <span style="color:mediumseagreen;">☆販売店による消費者保安教育の進め方.pdf</span>
+- <span style="color:mediumseagreen;">☆高圧ガスの適性な保安の障害になる問題整理2.pdf</span><BR>
+　　　[【図解】高圧ガスの適正な保安の障害になる問題整理](https://khks.net/hoan/mondai_seri.pdf)<BR> 
+- <span style="color:mediumseagreen;">☆販売店による消費者保安教育の進め方.pdf</span><BR>
 　　 [一般高圧ガス保安資料提供活動解説](https://khks.net/INDEX/guide.pdf)
 
-<span style="color:skyblue;">
--- ☆（別紙参照）新保安心得プレゼン及び規則ガイダンス等一式を、全溶連経済委員会発の提案として、スマート保安※・GX/FFIの好事例に位置づけてもらうよう国（経産省・KHK）へ働きかけるかどうかを検討。将来的にはKHKへの移管・共同メンテナンス体制も視野。窓口は複数候補があり、今後選定。<br>
-※ スマート保安：産業保安分野におけるIoT、ビッグデータ・ＡＩ、ドローン等の活用を通じた安全性と効率性の向上。「人の力・技術」との連携・融合。
-</span>
+<span style="color:skyblue;">-- ☆（別紙参照）新保安心得プレゼン及び規則ガイダンス等一式を、全溶連経済委員会発の提案として、スマート保安※・GX/FFIの好事例に位置づけてもらうよう国（経産省・KHK）へ働きかけるかどうかを検討。将来的にはKHKへの移管・共同メンテナンス体制も視野。窓口は複数候補があり、今後選定。</span>
+[別紙](https://khks.net/keizai/kokoroe_guidance_system.docx)
+<span style="color:silver;">※ スマート保安：産業保安分野におけるIoT、ビッグデータ・ＡＩ、ドローン等の活用を通じた安全性と効率性の向上。「人の力・技術」との連携・融合。</span>
 
 ☆【参考】[高圧ガス保安法等の一部を改正する法律 案の概要](https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/gas_anzen/pdf/025_03_01_01.pdf)
 
