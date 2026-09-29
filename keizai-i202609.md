@@ -1,4 +1,4 @@
-# 全溶連経済委員会資料　2026/09
+# 全溶連経済委員会資料　2026/09/02
 
 ---
 <span style="color:mediumseagreen;">
