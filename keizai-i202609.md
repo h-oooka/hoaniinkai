@@ -133,8 +133,8 @@
 　　 [一般高圧ガス保安資料提供活動解説](https://khks.net/INDEX/guide.pdf)
 
 <span style="color:skyblue;">-- ☆（別紙参照）新保安心得プレゼン及び規則ガイダンス等一式を、全溶連経済委員会発の提案として、スマート保安※・GX/FFIの好事例に位置づけてもらうよう国（経産省・KHK）へ働きかけるかどうかを検討。将来的にはKHKへの移管・共同メンテナンス体制も視野。窓口は複数候補があり、今後選定。</span>
-[別紙](https://khks.net/keizai/kokoroe_guidance_system.docx)
-<span style="color:silver;">※ スマート保安：産業保安分野におけるIoT、ビッグデータ・ＡＩ、ドローン等の活用を通じた安全性と効率性の向上。「人の力・技術」との連携・融合。</span>
+[別紙](https://khks.net/keizai/kokoroe_guidance_system.docx)<BR>
+<span style="color:silver;">※ スマート保安：産業保安分野におけるIoT、ビッグデータ・ＡＩ、ドローン等の活用を通じた安全性と効率性の向上。「人の力・技術」との連携・融合。</span><BR>
 
 ☆【参考】[高圧ガス保安法等の一部を改正する法律 案の概要](https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/gas_anzen/pdf/025_03_01_01.pdf)
 
