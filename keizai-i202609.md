@@ -3,7 +3,7 @@
 ---
 <span style="color:mediumseagreen;">
 
-☆ 事業計画（2026年度）<BR>
+事業計画（2026年度）<BR>
 <BR>
 1. 賠償責任保険・サイバー保険の加入促進と拡大・充実<BR>
 2. 高圧ガス販売業界におけるモラルおよび経済的地位の向上<BR>
@@ -99,7 +99,7 @@
 	年に一度の保安講習会は、設備の年次点検同様に心の慣れ、怠け、形骸化を校正する機会
 	（ベテランほど必要）知らないことを教える教育➡思い込みや意識のたるみを見つける機会
 
-- <span style="color:mediumseagreen;">☆高圧ガス特有の適性な保安活動の障害</span><BR>
+- <span style="color:mediumseagreen;">高圧ガス特有の適性な保安活動の障害</span><BR>
 　　　[【図解】高圧ガスの適正な保安の障害になる問題整理](https://khks.net/hoan/mondai_seri.pdf)<BR> 
 ####  [【参考】すでにできあがって、試験的に講習会受講者に提供されているメニュー](https://khks.net/INDEX/)
 - 英文周知文書
@@ -108,8 +108,11 @@
 - 高圧ガス保安を「歌」で学ぶ　楽曲集（歌のみ）／保安ＭＶ（規則読み上げ）
 - ほか含む
 
-<span style="color:mediumseagreen;">☆オンライン保安補助教材のご紹介ちらし</span>
-　　 [一般高圧ガス保安資料ＰＲちらし：兵庫県版](https://khks.net/INDEX/flyer.pdf)
+- <span style="color:mediumseagreen;">「販売店による消費者保安教育の進め方」</span><BR>
+　　 [一般高圧ガス保安資料提供活動解説資料](https://khks.net/INDEX/guide.pdf)<BR>
+　　 <BR>
+- <span style="color:mediumseagreen;">オンライン保安補助教材のご紹介ちらし</span><BR>
+　　 [一般高圧ガス保安資料ＰＲちらし：兵庫県版](https://khks.net/INDEX/flyer.pdf)<BR>
 
 -- <span style="color:skyblue;">「趣意書」をもとに保安心得と次項プレゼンによるこれからの講習会のあり方を説明し、経済委員会での取組みを検討</span>
 
@@ -121,19 +124,18 @@
 
 [【経産省高圧ガス保安室】260917_講演資料_高圧ガス保安行政の動向 オークション問題](https://khks.net/keizai/auction_keisansyo.pdf)
 
+　・[フリマアプリで「肥料」販売したら“書類送検”のまさか… 逮捕もあり得る“危ない”出品リスト](https://www.ben54.jp/news/170)
 -- <span style="color:skyblue;">経産省には、評議員会で「所有者刻印の欠落は重大違反」を指摘したが、今後の対応については経済委員会での取組み検討要</span>
 
-### <span style="color:mediumseagreen;">☆GXビジョンとFFI（現場ファースト活動）に対応する</span>
+### <span style="color:mediumseagreen;">GXビジョンとFFI（現場ファースト活動）に対応する</span>
 
 [【経産省高圧ガス保安室】260917_講演資料_高圧ガス保安行政の動向 2](https://khks.net/keizai/GX2040-FFI_keisansyo.pdf)<span style="color:mediumseagreen;">に対して ─── <BR></span><span style="color:mediumseagreen;">
-「4.」で紹介したオンライン補助教材を活用して「最先端保安の実践」を提案<BR></span>
-- <span style="color:mediumseagreen;">☆販売店による消費者保安教育の進め方.pdf</span><BR>
-　　 [一般高圧ガス保安資料提供活動解説](https://khks.net/INDEX/guide.pdf)
-　　 
-<span style="color:skyblue;">-- ☆（別紙参照）新保安心得プレゼン及び規則ガイダンス等一式を、全溶連経済委員会発の提案として、スマート保安※・GX/FFIの好事例に位置づけてもらうよう国（経産省・KHK）へ働きかけるかどうかを検討。将来的にはKHKへの移管・共同メンテナンス体制も視野。窓口は複数候補があり、今後選定。</span>
+「4.」で紹介したオンライン補助教材を活用して「最先端保安の実践」を提案</span><BR>
+
+<span style="color:skyblue;">-- （別紙参照）新保安心得プレゼン及び規則ガイダンス等一式を、全溶連経済委員会発の提案として、スマート保安※・GX/FFIの好事例に位置づけてもらうよう国（経産省・KHK）へ働きかけるかどうかを検討。将来的にはKHKへの移管・共同メンテナンス体制も視野。窓口は複数候補があり、今後選定。</span><BR>
 [別紙](https://khks.net/keizai/kokoroe_guidance_system.docx)<BR>
    <span style="color:silver;">※ スマート保安：産業保安分野におけるIoT、ビッグデータ・ＡＩ、ドローン等の活用を通じた安全性と効率性の向上。「人の力・技術」との連携・融合。</span><BR>
-☆【参考】[高圧ガス保安法等の一部を改正する法律 案の概要](https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/gas_anzen/pdf/025_03_01_01.pdf)
+【参考】[高圧ガス保安法等の一部を改正する法律 案の概要](https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/gas_anzen/pdf/025_03_01_01.pdf)<BR>
 
 ---
 ## おまけ
