@@ -52,7 +52,6 @@
 
 -- <span style="color:skyblue;">全国会員に対するアプローチについて具体策を委員会で提案を求める</span>
 
-
 #### （保安委員会提案）リスクアセスメント対象となった不活性ガス資料の必要性（高圧）
 
 ##### リスクに出てこない圧力の脅威
@@ -70,7 +69,7 @@
 
 ### 3．経済動向、市況調査に関する情報の共有化
 
-災害対策に関する対策（パンデミック・震災・水害・気候変動・動物感染症など）に関する読本製作を作成の予定
+災害対策に関する対策（パンダミック・震災・水害・気候変動・動物感染症など）に関する読本製作を作成の予定
 
 鳥インフルエンザ拡大・常習化に対する提案：状況について全国調査を行なう。
 
@@ -86,7 +85,7 @@
 
 [高圧ガス消費者保安講習会の活性化に向けた趣意書](https://khks.net/hoan/kasseika.pdf) を配布
 
-　新保安心得の講習内容改善ポイント
+　新保安心得の講習内容改善ポイント解説
 
 	どんな事故が起きたかを知る（犯人捜し）のではなく何故事故が起きるかを理解する機会へ
 	
@@ -99,9 +98,9 @@
 	
 	年に一度の保安講習会は、設備の年次点検同様に心の慣れ、怠け、形骸化を校正する機会
 	（ベテランほど必要）知らないことを教える教育➡思い込みや意識のたるみを見つける機会
-	
 
--- <span style="color:skyblue;">「趣意書」をもとに保安心得と次項プレゼンによるこれからの講習会のあり方を説明し、経済委員会での取組みを検討</span>
+- <span style="color:mediumseagreen;">☆高圧ガス特有の適性な保安活動の障害</span><BR>
+　　　[【図解】高圧ガスの適正な保安の障害になる問題整理](https://khks.net/hoan/mondai_seri.pdf)<BR> 
 ####  [【参考】すでにできあがって、試験的に講習会受講者に提供されているメニュー](https://khks.net/INDEX/)
 - 英文周知文書
 - 高圧ガス保安規則ガイダンス（その他消費・貯蔵・移動・廃棄編）
@@ -110,8 +109,9 @@
 - ほか含む
 
 <span style="color:mediumseagreen;">☆オンライン保安補助教材のご紹介ちらし</span>
-　　 [一般高圧ガス保安資料ＰＲちらし](https://khks.net/INDEX/flyer.pdf)
+　　 [一般高圧ガス保安資料ＰＲちらし：兵庫県版](https://khks.net/INDEX/flyer.pdf)
 
+-- <span style="color:skyblue;">「趣意書」をもとに保安心得と次項プレゼンによるこれからの講習会のあり方を説明し、経済委員会での取組みを検討</span>
 
 
 ---
@@ -127,15 +127,12 @@
 
 [【経産省高圧ガス保安室】260917_講演資料_高圧ガス保安行政の動向 2](https://khks.net/keizai/GX2040-FFI_keisansyo.pdf)<span style="color:mediumseagreen;">に対して ─── <BR></span><span style="color:mediumseagreen;">
 「4.」で紹介したオンライン補助教材を活用して「最先端保安の実践」を提案<BR></span>
-- <span style="color:mediumseagreen;">☆高圧ガスの適性な保安の障害になる問題整理2.pdf</span><BR>
-　　　[【図解】高圧ガスの適正な保安の障害になる問題整理](https://khks.net/hoan/mondai_seri.pdf)<BR> 
 - <span style="color:mediumseagreen;">☆販売店による消費者保安教育の進め方.pdf</span><BR>
 　　 [一般高圧ガス保安資料提供活動解説](https://khks.net/INDEX/guide.pdf)
-
+　　 
 <span style="color:skyblue;">-- ☆（別紙参照）新保安心得プレゼン及び規則ガイダンス等一式を、全溶連経済委員会発の提案として、スマート保安※・GX/FFIの好事例に位置づけてもらうよう国（経産省・KHK）へ働きかけるかどうかを検討。将来的にはKHKへの移管・共同メンテナンス体制も視野。窓口は複数候補があり、今後選定。</span>
 [別紙](https://khks.net/keizai/kokoroe_guidance_system.docx)<BR>
-<span style="color:silver;">※ スマート保安：産業保安分野におけるIoT、ビッグデータ・ＡＩ、ドローン等の活用を通じた安全性と効率性の向上。「人の力・技術」との連携・融合。</span><BR>
-
+   <span style="color:silver;">※ スマート保安：産業保安分野におけるIoT、ビッグデータ・ＡＩ、ドローン等の活用を通じた安全性と効率性の向上。「人の力・技術」との連携・融合。</span><BR>
 ☆【参考】[高圧ガス保安法等の一部を改正する法律 案の概要](https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/gas_anzen/pdf/025_03_01_01.pdf)
 
 ---
