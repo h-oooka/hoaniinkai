@@ -130,12 +130,14 @@
 ### <span style="color:mediumseagreen;">GXビジョンとFFI（現場ファースト活動）に対応する</span>
 
 [【経産省高圧ガス保安室】260917_講演資料_高圧ガス保安行政の動向 2](https://khks.net/keizai/GX2040-FFI_keisansyo.pdf)<span style="color:mediumseagreen;">に対して ─── <BR></span><span style="color:mediumseagreen;">
-「4.」で紹介したオンライン補助教材を活用して「最先端保安の実践」を提案</span><BR>
+「4.」で紹介したオンライン補助教材を活用して「最先端保安の実践」を提案</span><BR><BR>
+[📜](https://khks.net/keizai/kokoroe_guidance_system.pdf)[経産省に「高圧ガス保安教育高度化」として提案するたたき台](https://khks.net/keizai/kokoroe_guidance_system.docx)
 
+<BR>
 <span style="color:skyblue;">-- （別紙参照）新保安心得プレゼン及び規則ガイダンス等一式を、全溶連経済委員会発の提案として、スマート保安※・GX/FFIの好事例に位置づけてもらうよう国（経産省・KHK）へ働きかけるかどうかを検討。将来的にはKHKへの移管・共同メンテナンス体制も視野。窓口は複数候補があり、今後選定。</span><BR>
 [別紙](https://khks.net/keizai/kokoroe_guidance_system.docx)<BR>
    <span style="color:silver;">※ スマート保安：産業保安分野におけるIoT、ビッグデータ・ＡＩ、ドローン等の活用を通じた安全性と効率性の向上。「人の力・技術」との連携・融合。</span><BR>
-【参考】[高圧ガス保安法等の一部を改正する法律 案の概要](https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/gas_anzen/pdf/025_03_01_01.pdf)<BR>
+【参考】[高圧ガス保安法等の一部を改正する法律 案の概要](https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/gas_anzen/pdf/025_03_01_01.pdf)
 
 ---
 ## おまけ
