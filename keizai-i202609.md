@@ -146,6 +146,8 @@
 
  [(参考)JIMGA　ガスの歌](https://www.jimga.or.jp/jimgasongs/)
 
+[全溶連経済委員会当日進行次第　2026/09/02](https://h-oooka.github.io/hoaniinkai/keizai-i20260902.html)
+
 ---
 
 https://h-oooka.github.io/hoaniinkai/keizai-i202609.html
