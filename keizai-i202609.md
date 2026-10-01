@@ -99,6 +99,8 @@
 	年に一度の保安講習会は、設備の年次点検同様に心の慣れ、怠け、形骸化を校正する機会
 	（ベテランほど必要）知らないことを教える教育➡思い込みや意識のたるみを見つける機会
 
+　　[心得プレゼン読み解き資料「高圧ガスの脅威と人の心の話」](https://khks.net/hoan/new_presen.pdf)<BR>
+　　
 - <span style="color:mediumseagreen;">高圧ガス特有の適性な保安活動の障害</span><BR>
 　　　[【図解】高圧ガスの適正な保安の障害になる問題整理](https://khks.net/hoan/mondai_seri.pdf)<BR> 
 ####  [【参考】すでにできあがって、試験的に講習会受講者に提供されているメニュー](https://khks.net/INDEX/)
@@ -130,9 +132,8 @@
 ### <span style="color:mediumseagreen;">GXビジョンとFFI（現場ファースト活動）に対応する</span>
 
 [【経産省高圧ガス保安室】260917_講演資料_高圧ガス保安行政の動向 2](https://khks.net/keizai/GX2040-FFI_keisansyo.pdf)<span style="color:mediumseagreen;">に対して ─── <BR></span><span style="color:mediumseagreen;">
-「4.」で紹介したオンライン補助教材を活用して「最先端保安の実践」を提案</span><BR><BR><BR>
+「4.」で紹介したオンライン補助教材を活用して「最先端保安の実践」を提案</span><BR><BR>
 [📜](https://khks.net/keizai/keisansyo_onchu.pdf)[経産省に「高圧ガス保安教育高度化」として提案するたたき台](https://khks.net/keizai/keisansyo_onchu.docx)
-
 <BR>
 <span style="color:skyblue;">-- （別紙参照）新保安心得プレゼン及び規則ガイダンス等一式を、全溶連経済委員会発の提案として、スマート保安※・GX/FFIの好事例に位置づけてもらうよう国（経産省・KHK）へ働きかけるかどうかを検討。将来的にはKHKへの移管・共同メンテナンス体制も視野。窓口は複数候補があり、今後選定。</span><BR>
 [別紙](https://khks.net/keizai/kokoroe_guidance_system.docx)<BR>
